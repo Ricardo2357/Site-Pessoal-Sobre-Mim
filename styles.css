@@ -1,0 +1,53 @@
+body {
+        background-color: #eef1f5;
+        color: #000000;
+        font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+    width: 80%; 
+    max-width: 900px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    background-color: white; 
+    padding: 20px; 
+}
+
+header {
+        background-color: #0077cc;
+        color: white;
+        text-align: center;
+}
+
+header h1#pagetitle {
+        color: white;
+        font-size: 2.25rem;
+        font-weight: bold;
+}
+
+h2 {
+        color: #1569bd;
+        font-size: 1.75rem;
+        font-weight: bold;
+}
+
+.hobby, .goals {
+        font-weight: bold;
+        padding: 4px;
+        border-radius: 5px;
+}
+
+p, li {
+        font-size: 1rem;
+}
+
+footer {
+        color: #000000;
+        font-weight: bold;
+        text-align: center;
+}
+
+footer a {
+        color: #0077cc;
+        font-weight: bold;
+}
