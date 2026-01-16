@@ -24,6 +24,8 @@ https://ricardo2357.github.io/Site-Pessoal-Sobre-Mim/
 
 ```
 Site-Pessoal-Sobre-Mim/
+├── images/
+│   └── previe-site-pessoal-sobre-mim.png
 ├── index.html
 ├── style.css
 ├── LICENSE
