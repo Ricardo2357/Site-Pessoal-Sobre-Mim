@@ -1,5 +1,5 @@
 # Site Pessoal Sobre Mim
-Este projeto consiste em uma página de apresentação individual, desenvolvido com tecnologias front-end e estruturado para exibir informaçõesa sobre mim.
+Este projeto consiste em uma página de apresentação individual, desenvolvido com tecnologias front-end e estruturado para exibir informações sobre mim.
 
 <p align="left">
   <img src="images/preview-site-pessoal-sobre-mim.png" alt="Preview do Site Pessoal" width="600">
