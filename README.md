@@ -2,7 +2,7 @@
 Este projeto consiste em uma página de apresentação individual, desenvolvido com tecnologias front-end e estruturado para exibir informaçõesa sobre mim.
 
 <p align="left">
-  <img src="foto-site-pessoal-sobre-mim.png" alt="Preview do Site Pessoal" width="600">
+  <img src="preview-site-pessoal-sobre-mim.png" alt="Preview do Site Pessoal" width="600">
 </p>
 
 ## Sobre o Projeto
@@ -18,6 +18,7 @@ O objetivo deste site é melhorar minhas habilidades em html e css. Ele foi dese
 
 Visite o site aqui:
 
+https://ricardo2357.github.io/Site-Pessoal-Sobre-Mim/
 
 ## Estrutura do Projeto
 
